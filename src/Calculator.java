@@ -62,14 +62,6 @@ public class Calculator {
         return calculateBi(BiOperatorModes.normal, num);
     }
 
-    public Double reset() {
-        num2 = 0.0;
-        num1 = 0.0;
-        mode = BiOperatorModes.normal;
-
-        return NaN;
-    }
-
     public Double calculateMono(MonoOperatorModes newMode, Double num) {
         if (newMode == MonoOperatorModes.square) {
             return num * num;
