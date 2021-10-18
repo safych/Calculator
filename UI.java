@@ -1,4 +1,4 @@
-//Відсутнє з'єднання з класом simplejavacalculator
+//No connection to class simplejavacalculator [Nika]
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
