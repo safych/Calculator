@@ -1,4 +1,4 @@
-//No connection to class simplejavacalculator [Nika]
+package simplejavacalculator;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
